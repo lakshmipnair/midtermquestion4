@@ -1,9 +1,13 @@
 newfile added
 
 file modified....
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 line added in local repo
 =======
+=======
+Line added in local 
+>>>>>>> b36418698648453c0b75fdde00d39deca116dac2
 Line added in remote repo
 >>>>>>> origin/master

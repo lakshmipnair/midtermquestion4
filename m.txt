@@ -1,5 +1,6 @@
 newfile added
 editing for stash practise
+
 file modified....
 <<<<<<< HEAD
 
